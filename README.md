@@ -3,11 +3,11 @@ seccion 1
 1. B
 2. B
 3. B
- seccion2 
+seccion2 
 5. B
 6. B
 7. B
- seccion 3 compresion de codigo
+seccion 3 compresion de codigo
 8. B
 9. C
 10. B
