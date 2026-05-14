@@ -3,23 +3,22 @@ seccion 1
 1. B
 2. B
 3. B
-
  seccion2 
-4. B
 5. B
 6. B
- seccion 3 compresion de codigo
 7. B
-8. C
-9. B
+ seccion 3 compresion de codigo
+8. B
+9. C
 10. B
 11. B
-12. C
+12. B
+13. C
 seccion 4 funciones y clases
-13. B
 14. B
-seccion 5 clases y constructores
 15. B
+seccion 5 clases y constructores
+16. B
 
 
 
